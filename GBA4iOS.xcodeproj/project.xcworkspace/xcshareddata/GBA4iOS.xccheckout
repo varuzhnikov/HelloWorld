@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>E410257B-9414-43B0-9BF8-553DA298F4D1</string>
+	<string>2ACB8EC3-5B43-4CCE-91EF-C303B80DFC7E</string>
 	<key>IDESourceControlProjectName</key>
 	<string>GBA4iOS</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F00DBADA-A3E2-47D7-9579-368F88F1EB58</key>
-		<string>https://github.com/rileytestut/GBA4iOS-2.0.git</string>
+		<key>366F36F4-93E4-44E6-8FC1-290C643208E6</key>
+		<string>ssh://github-paulthorsen/PaulThorsen/HelloWorld.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>GBA4iOS.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F00DBADA-A3E2-47D7-9579-368F88F1EB58</key>
+		<key>366F36F4-93E4-44E6-8FC1-290C643208E6</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/rileytestut/GBA4iOS-2.0.git</string>
+	<string>ssh://github-paulthorsen/PaulThorsen/HelloWorld.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F00DBADA-A3E2-47D7-9579-368F88F1EB58</string>
+	<string>366F36F4-93E4-44E6-8FC1-290C643208E6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F00DBADA-A3E2-47D7-9579-368F88F1EB58</string>
+			<string>366F36F4-93E4-44E6-8FC1-290C643208E6</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GBA4iOS</string>
+			<string>GBA4iOS-2</string>
 		</dict>
 	</array>
 </dict>
