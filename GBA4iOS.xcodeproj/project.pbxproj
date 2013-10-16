@@ -284,7 +284,6 @@
 		CC45EE1017E7E9D000AC29FA /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		CC491D4C17BCAA940060A107 /* GBASaveStateViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBASaveStateViewController.h; sourceTree = "<group>"; };
 		CC491D4D17BCAA940060A107 /* GBASaveStateViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GBASaveStateViewController.mm; sourceTree = "<group>"; };
-		CC57568F180C727C00BF3DA5 /* GBC.emu-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GBC.emu-Info.plist"; sourceTree = "<group>"; };
 		CC575695180C727C00BF3DA5 /* GBC.emu-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GBC.emu-Prefix.pch"; sourceTree = "<group>"; };
 		CC5756F1180C745200BF3DA5 /* ly_counter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ly_counter.cpp; path = "emu-ex-plus-alpha/GBC.emu/src/libgambatte/src/video/ly_counter.cpp"; sourceTree = SOURCE_ROOT; };
 		CC5756F2180C745200BF3DA5 /* lyc_irq.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = lyc_irq.cpp; path = "emu-ex-plus-alpha/GBC.emu/src/libgambatte/src/video/lyc_irq.cpp"; sourceTree = SOURCE_ROOT; };
@@ -418,7 +417,6 @@
 		CC8BB0B21799A4D900F9864F /* GBAEmulationViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = GBAEmulationViewController.mm; sourceTree = "<group>"; };
 		CC8D5A7817AAE3A800E89F43 /* GBAControllerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GBAControllerView.h; sourceTree = "<group>"; };
 		CC8D5A7917AAE3A800E89F43 /* GBAControllerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GBAControllerView.m; sourceTree = "<group>"; };
-		CC96EF6B17C2959900C7DD0C /* GBA.emu-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GBA.emu-Info.plist"; sourceTree = "<group>"; };
 		CC96EF7117C2959900C7DD0C /* GBA.emu-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GBA.emu-Prefix.pch"; sourceTree = "<group>"; };
 		CC96F00917C2983800C7DD0C /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		CC9EA6C917FE7CE1005BD5E6 /* UITableViewController+Theming.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableViewController+Theming.h"; sourceTree = "<group>"; };
@@ -883,7 +881,6 @@
 		CC57568D180C727C00BF3DA5 /* GBC.emu */ = {
 			isa = PBXGroup;
 			children = (
-				CC57568F180C727C00BF3DA5 /* GBC.emu-Info.plist */,
 				CC575695180C727C00BF3DA5 /* GBC.emu-Prefix.pch */,
 				CC575769180C766C00BF3DA5 /* GBCImages.xcassets */,
 			);
@@ -1088,7 +1085,6 @@
 		CC96EF6917C2959900C7DD0C /* GBA.emu */ = {
 			isa = PBXGroup;
 			children = (
-				CC96EF6B17C2959900C7DD0C /* GBA.emu-Info.plist */,
 				CC96EF7117C2959900C7DD0C /* GBA.emu-Prefix.pch */,
 				CC6A2D8C17C503D700EFC10E /* OriginalImages.xcassets */,
 			);
